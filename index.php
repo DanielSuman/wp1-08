@@ -39,6 +39,5 @@ $genres = $_POST['genres'];
      <input type="checkbox" id="genre11" name="genres[]" value="anime"> <label for="genre11">Anime / Visual Novely</label> </br> 
      <input type="submit" id="submit" name="submit">
     </form>
-    <?php } ?>
 </body>
 </html>
